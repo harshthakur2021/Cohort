@@ -7,6 +7,7 @@ function printchai(){
 
 function bringbrush(itne){
     console.log(`Hello Harsh ${itne}`)
+    console.log(`Hello Harsh ${itne}`)
 
 }
 
