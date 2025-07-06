@@ -23,7 +23,7 @@ let studentProfile ={
     name: "Harsh",
     age: 22,
     ispaid: true,
-    skills:["Html", "CSS", "JS"],
+    skills:["Html", "CSS", "Javascript"],
     favoriteClass: null
 }
 
