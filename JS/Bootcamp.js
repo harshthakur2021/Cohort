@@ -37,3 +37,17 @@ console.log("Its Raining")
 else{
    console.log("Stay in the house")
 }
+
+// Arrays
+
+let fruits =["apple", "cherry", "Banana"];
+
+console.log(fruits.length);
+
+// Loops
+
+let teas = ["Masala", "Ginger", "oolong", "orange", "Lemon", "Cold"];
+
+for (let i = 0; i < teas.length; i++) {
+  console.log(teas[i]);
+}
