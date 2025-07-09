@@ -51,3 +51,10 @@ let teas = ["Masala", "Ginger", "oolong", "orange", "Lemon", "Cold"];
 for (let i = 0; i < teas.length; i++) {
   console.log(teas[i]);
 }
+// Objects
+
+const person = {
+  x:10
+}
+
+console.log(person.x)
