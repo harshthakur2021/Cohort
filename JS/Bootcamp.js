@@ -58,3 +58,26 @@ const person = {
 }
 
 console.log(person.x)
+
+// Map, filter, Reduce
+
+const a= [11,2,7,4,6,15,9];
+
+// Map = .map() is a JavaScript array method used to create a new array by applying a function to each element of the original array.
+
+//  let b= a.map((e)=> e+1);
+//  console.log(b)
+
+// Filter = .filter() is a JavaScript array method used to select only the elements that meet a condition.
+
+
+
+
+
+// const result = a.filter((e) => e > 5);
+// console.log(result);
+
+
+// Reduce= .reduce() is a JavaScript array method used to combine all elements of an array into a single value — like a sum, product, or something custom.
+let result= a.reduce((s,e)=>s+e,0)
+console.log(result)
