@@ -68,7 +68,7 @@ const a= [11,2,7,4,6,15,9];
 //  let b= a.map((e)=> e+1);
 //  console.log(b)
 
-// Filter = .filter() is a JavaScript array method used to select only the elements that meet a condition.
+// Filter = .filter() is a JavaScript array method used to select only the elements that meet a conditions.
 
 
 
