@@ -46,7 +46,7 @@ console.log(fruits.length);
 
 // Loops
 
-let teas = ["Masala", "Ginger", "oolong", "orange", "Lemon", "Cold"];
+let teas = ["Masala", "Ginger", "oolong", "orange", "Lemon", "Coldrink"];
 
 for (let i = 0; i < teas.length; i++) {
   console.log(teas[i]);
